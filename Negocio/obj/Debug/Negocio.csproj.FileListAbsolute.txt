@@ -1,0 +1,132 @@
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.pdb
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.pdb
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.pdb
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.pdb
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.pdb
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.pdb
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Dao.pdb
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Negocio\obj\Debug\Negocio.pdb

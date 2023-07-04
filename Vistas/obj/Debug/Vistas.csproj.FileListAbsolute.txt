@@ -1,0 +1,780 @@
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V6\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll.config
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.pdb
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.pdb
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.pdb
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.pdb
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\Leo\Desktop\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll.config
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\TIF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll.config
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.pdb
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.pdb
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.pdb
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.pdb
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\Manu\Desktop\TIFFF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V12\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll.config
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.pdb
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.pdb
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.pdb
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.pdb
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\Ricardo\Downloads\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.pdb
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\Pili\Downloads\GRUPO4_SegundaEntregaTIF_V16\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll.config
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.pdb
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.dll
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.pdb
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.pdb
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.pdb
+C:\Users\Manu\Desktop\TEmpaaa\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll.config
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.pdb
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.pdb
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.pdb
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.pdb
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\Manu\Desktop\Leonardo\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll.config
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.pdb
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.pdb
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.pdb
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.pdb
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\Leo\Desktop\TP Integrador\Entrega final\v24\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll.config
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.pdb
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\Ricardo\Desktop\Agostina Gentille UTN\Tercer Cuatrimestre\Programaciòn 3\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll.config
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Vistas.pdb
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Entidades.pdb
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Negocio.pdb
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\bin\Dao.pdb
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\Manu\Desktop\TIF\GRUPO4_SegundaEntregaTIF\Vistas\obj\Debug\Vistas.pdb
